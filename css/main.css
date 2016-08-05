@@ -1,0 +1,70 @@
+*{
+	font-family: Open Sans;
+}
+/*HEADER*/
+header{
+	background-image: url(../img/grupal.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 800px;
+	margin-bottom: 30px;
+}
+.sumate{
+	background-color: #FCB739;
+	border-radius: 5px;
+	text-align: center;
+	margin-top: 60px;
+	padding: 5px 10px;
+	width: 30%;
+}
+header a {
+	text-decoration: none;
+	color: #384037;
+	font-weight: bold;
+}
+nav{
+	margin: 60px 10px;
+	float: right;
+}
+header img{
+	margin-top: 80px;
+}
+
+/*SECCTION*/
+}
+.imgca {
+	margin: 0px 10px;
+
+}
+.imgca > img{
+	margin: 0 auto;
+}
+.contenedor {
+    max-width: 1000px;
+}
+.contenedor, .simplegrid {
+    margin: 0 auto;
+    padding: 0 0 0 1%;
+}
+
+section a{
+	text-decoration: none;
+	color: #384037;
+	font-weight: bold;
+	padding: 20px 0px;
+}
+
+/*FOOTER*/
+footer{
+	background-color: #323230;
+	clear: both;
+	color: #E4E1C8;
+	padding: 30px 20px;
+	margin-top: 20px;
+}
+.pie{
+	display: inline-block;
+}
+/*
+	Inserta tu CSS aqui
+*/
